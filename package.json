@@ -1,0 +1,25 @@
+{
+  "name": "npm-package-swc-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx spack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynane/npm-package-swc-template.git"
+  },
+  "keywords": [],
+  "author": "shijinhua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mynane/npm-package-swc-template/issues"
+  },
+  "homepage": "https://github.com/mynane/npm-package-swc-template#readme",
+  "devDependencies": {
+    "@swc/cli": "^0.1.62",
+    "@swc/core": "^1.3.51"
+  }
+}
